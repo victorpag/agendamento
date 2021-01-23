@@ -1,0 +1,13 @@
+C:\Users\viiic\source\repos\AgendamentoCliente\AgendamentoCliente\bin\Debug\netcoreapp3.1\AgendamentoCliente.exe
+C:\Users\viiic\source\repos\AgendamentoCliente\AgendamentoCliente\bin\Debug\netcoreapp3.1\AgendamentoCliente.deps.json
+C:\Users\viiic\source\repos\AgendamentoCliente\AgendamentoCliente\bin\Debug\netcoreapp3.1\AgendamentoCliente.runtimeconfig.json
+C:\Users\viiic\source\repos\AgendamentoCliente\AgendamentoCliente\bin\Debug\netcoreapp3.1\AgendamentoCliente.runtimeconfig.dev.json
+C:\Users\viiic\source\repos\AgendamentoCliente\AgendamentoCliente\bin\Debug\netcoreapp3.1\AgendamentoCliente.dll
+C:\Users\viiic\source\repos\AgendamentoCliente\AgendamentoCliente\bin\Debug\netcoreapp3.1\AgendamentoCliente.pdb
+C:\Users\viiic\source\repos\AgendamentoCliente\AgendamentoCliente\obj\Debug\netcoreapp3.1\AgendamentoCliente.csprojAssemblyReference.cache
+C:\Users\viiic\source\repos\AgendamentoCliente\AgendamentoCliente\obj\Debug\netcoreapp3.1\AgendamentoCliente.AssemblyInfoInputs.cache
+C:\Users\viiic\source\repos\AgendamentoCliente\AgendamentoCliente\obj\Debug\netcoreapp3.1\AgendamentoCliente.AssemblyInfo.cs
+C:\Users\viiic\source\repos\AgendamentoCliente\AgendamentoCliente\obj\Debug\netcoreapp3.1\AgendamentoCliente.csproj.CoreCompileInputs.cache
+C:\Users\viiic\source\repos\AgendamentoCliente\AgendamentoCliente\obj\Debug\netcoreapp3.1\AgendamentoCliente.dll
+C:\Users\viiic\source\repos\AgendamentoCliente\AgendamentoCliente\obj\Debug\netcoreapp3.1\AgendamentoCliente.pdb
+C:\Users\viiic\source\repos\AgendamentoCliente\AgendamentoCliente\obj\Debug\netcoreapp3.1\AgendamentoCliente.genruntimeconfig.cache
